@@ -15,6 +15,5 @@ for (let i = 0; i < size; i++) {
 
         row += value + " ";
     }
-
     console.log(row);
 }
